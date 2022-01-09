@@ -1,0 +1,6 @@
+﻿  Customer.cpp
+  Product.cpp
+C:\Users\Lenovo\Downloads\New folder (2)\Product.cpp(40,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\New folder (2)\Product.cpp(125,9): warning C4101: 'star': unreferenced local variable
+  Generating Code...
+  Project19.vcxproj -> C:\Users\Lenovo\Downloads\New folder (2)\x64\Debug\Project19.exe
